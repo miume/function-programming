@@ -1,2 +1,2 @@
-# function-programming
-函数式编程
+# javascript-code
+javascript函数式编程
